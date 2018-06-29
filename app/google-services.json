@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "168190125087",
+    "firebase_url": "https://smartgarden-ae4fc.firebaseio.com",
+    "project_id": "smartgarden-ae4fc",
+    "storage_bucket": "smartgarden-ae4fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168190125087:android:b89ec5f758af70af",
+        "android_client_info": {
+          "package_name": "com.hzag.smartgarden"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168190125087-a58meofd2v4vsp9mb180gc96mjcm77t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5tImzt87u8ZZJsdqS9sfZ3KUjpU6Le7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
